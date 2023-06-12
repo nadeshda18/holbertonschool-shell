@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +100 | +010 | +004 hello
+chmod +114 hello
