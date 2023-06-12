@@ -1,2 +1,2 @@
 #!/bin/bash
-chown master:vincent group:staff
+chown -R vincent:staff .
