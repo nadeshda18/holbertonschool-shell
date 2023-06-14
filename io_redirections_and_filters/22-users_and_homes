@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | cut -d : -f 1, 6 | sort user /etc/passwd
+cat /etc/passwd
